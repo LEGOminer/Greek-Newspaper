@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1 style="color:green">This is our newspaper!</h1>
+<h1 style="color:green">This is our newspaper, <strong><em>The Muse News</em></strong>!</h1>
 <h2>This is our sponsor <strong>Ajax</strong> <em>Stronger than Grease!</em></h2><img src="file://localhost/Users/student/Desktop/Photo%20on%204-26-16%20at%201.14%20PM.jpg"/img>
 <title>Greek Newspaper
 </title>
